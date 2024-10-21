@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skiper29
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning .Net
 - 📫 How to reach me @skiper29 - telegram
 
 <!---
