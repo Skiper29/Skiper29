@@ -27,6 +27,9 @@ I’m always excited to connect with like-minded individuals and professionals. 
 - [LinkedIn](https://www.linkedin.com/in/vitalii-demkiv-331086232)
 
 ---
+## My Codewars stat
+![Codewars](https://github.r2v.ch/codewars?user=Sk1per29&name=true&top_languages=true&theme=gradient)
+
 
 Thanks for stopping by! 😊
 <!---
